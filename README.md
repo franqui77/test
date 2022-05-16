@@ -2,11 +2,11 @@
 
 ## Instrucciones
 
-### Clona el proyecto en tu computadora:
+### Clone el proyecto en tu computadora:
 
 git clone https://github.com/franqui77/test.git
 
-### Cambia al directorio del juego creado:
+### Cambiese al directorio creado:
 
 cd test
 
