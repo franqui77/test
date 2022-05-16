@@ -20,6 +20,14 @@ yarn start
 
 ### Thanks. 
 
+### Get transactions list
+
+https://github.com/franqui77/test/blob/master/Get%20transactions%20list.png
+
+### Void a transaction
+
+https://github.com/franqui77/test/blob/master/Void%20a%20transaction.png
+
 ## FeedBack
 
 ### Experiencia de Onboarding con Kushki. Oportunidades de mejoras identificadas.
